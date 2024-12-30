@@ -1,2 +1,2 @@
-# NYSEScraper
-Scraper for the current stocks, bonds, indexes, and REITS that are traded on NYSE.
+# NYSE Listings Scraper
+This project is a Python tool for extracting the current listings from th
